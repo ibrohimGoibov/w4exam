@@ -1,0 +1,11 @@
+input{
+  padding: 10px 20px;
+}
+.num1{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  width: 400px;
+  padding: 30px;
+}
